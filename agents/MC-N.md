@@ -5,7 +5,7 @@ Pseudocode for MC-N:
 Given a state s with available actions A(s), player ps to move in s, and given MC-N parameters iterations ITER, rollout depth rDepth
 
 ```
-for all actions a \in A(s)
+for all actions a in A(s)
 	for i = 1,…,ITER
 		scTuplei = rollout(s.advance(a), rDepth)
 	avgTuple = < scTuplei>i  				// expectation value over i
