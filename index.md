@@ -1,3 +1,9 @@
+---
+title: PAGE TITLE HERE
+layout: template
+filename: NAME OF THIS .md FILE HERE
+--- 
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Tez90/public_test_repo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
